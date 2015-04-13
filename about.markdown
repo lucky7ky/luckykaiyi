@@ -34,5 +34,5 @@ title: AboutMe
 最后，感谢一下 [YanyiWu] 在我的Web学习过程中的引导和帮助。
 
 [UI中国-多米诺诺]:http://i.ui.cn/ucenter/161078
-[邮订阅]:http://youdingyue.yanyiwu.com
+[邮订阅]:http://youdingyue.luckykaiyi.com
 [YanyiWu]:http://yanyiwu.com
