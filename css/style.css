@@ -154,13 +154,9 @@ border-bottom: 0px;
 
 nav  {
 	margin:20px 20% 30px 20%;
-	height:27px;
-	padding:10px 0px 0px 0px;
-	background-image:url('http://7viirv.com1.z0.glb.clouddn.com/nav_starry_sky.jpg');
-	border-radius:8px;
+	padding:0px;
 }
 nav ul {
-	height:100%;
 	margin:0 10%;
 	padding:0;
 	list-style:none;
