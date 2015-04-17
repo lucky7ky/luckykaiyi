@@ -1,8 +1,9 @@
 #blog_index {
     font-family: SimSun, Heiti, sans-serif;
     font-size: 18px;
-    margin: 3% 20% 5% 20%;
-    padding: 2% 5% 5% 5%;
+    width:610px;
+    margin:auto;
+    padding:40px;
     line-height: 150%;
     border: 1px solid LightGrey;
 }
@@ -156,35 +157,28 @@ ol {
 }
 
 nav  {
-	margin:20px 20% 30px 20%;
-	padding:0px;
+    width:692px;
+    margin:45px auto 30px auto;
 }
 nav ul {
-	margin:0 10%;
 	list-style:none;
+    padding:0px;
+    margin:0px;
+    height:23px;
 	
 }
 nav li {
     float:left;
-	width:24%;
-	padding:4px 0;
-	margin:0;
+	width:25%;
+    height:23px;
+    line-height:23px;
+    font-size:15px;
+	margin:0px;
 	text-align:center;
-	background-color: rgb(223, 223, 211);
-	border:0.5% solid #CCC;
+	background-color:rgba(103, 95, 89, 0.1);
     cursor: pointer;
+    color:rgb(140, 62, 62);
 }
 nav li:hover{
 	background-color:#CCC;
-}
-nav li a{
-   font:  bold 13px Arial, Helvetica, sans-serif;
-   margin:0;
-   padding:0;
-   text-decoration:none;
-   border:0px;
-   color:rgba(77, 63, 68, 0.9);
- }
-nav a:hover{
-   background:none;
 }
