@@ -3,10 +3,13 @@ body {
 }
 #blog_index {
     width:auto;
+    font-size:26px;
     margin:0px;
 }
 nav {
     width:auto;
     margin:0px;
 }
-
+nav li {
+    font-size:20px;
+}
