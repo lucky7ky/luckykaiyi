@@ -5,7 +5,9 @@
     margin:auto;
     padding:40px;
     line-height: 150%;
-    border: 1px solid LightGrey;
+/*  border: 1px solid LightGrey;*/
+    box-shadow: 0px 2px 3px 1px rgb(214, 210, 210);
+    border-radius: 10px;
 }
 #logo {
     overflow:hidden;
@@ -65,6 +67,13 @@ H4 {
 li {
     margin-left: 5px;
 }
+#blog_index li {
+    margin-bottom: 10px;
+    border-bottom: 1px solid rgb(244, 240, 240);
+}
+#blog_index li:hover {
+    background-color: rgb(248, 247, 247);
+}
 blockquote {
     border-left: 4px lightgrey solid;
     padding-left: 5px;
@@ -72,18 +81,15 @@ blockquote {
 }
 a {
     text-decoration: none;
-    border-bottom: 1px solid rgb(6, 7, 18);
     padding: 1px;
     color: black;
-}
-a:hover {
-	background-color: LightGrey;
 }
 hr {
     color: LightGrey;
 }
 ul {
     padding: 5px 5px 5px 20px;
+    margin-bottom:0px;
 }
 ol {
     padding: 5px 5px 5px 30px;
@@ -136,20 +142,22 @@ nav ul {
     padding:0px;
     margin:0px;
     height:23px;
-	
+    border-bottom: 1px solid rgba(211, 211, 211, 0.28);
+    padding-bottom: 5px;
 }
 nav li {
     float:left;
 	width:25%;
     height:23px;
     line-height:23px;
-    font-size:15px;
+    font-size:16px;
 	margin:0px;
 	text-align:center;
-	background-color:rgba(103, 95, 89, 0.1);
     cursor: pointer;
     color:rgb(140, 62, 62);
+    text-shadow: 0px 5px 3px rgb(188, 185, 178);
 }
 nav li:hover{
-	background-color:#CCC;
+      border-radius: 5px;
+      background-color: rgba(207, 195, 195, 0.15);
 }
