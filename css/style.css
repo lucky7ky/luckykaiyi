@@ -162,3 +162,10 @@ nav li:hover{
       border-radius: 5px;
       background-color: rgba(207, 195, 195, 0.15);
 }
+img {
+    width:100%;
+}
+footer img {
+    width:20px;
+    height:20px;
+}

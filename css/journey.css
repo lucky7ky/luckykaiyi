@@ -1,0 +1,58 @@
+H1 {
+    font-family: "Palatino Linotype", "Book Antiqua", Palatino, Helvetica, STKaiti, SimSun, serif;
+    font-size: 1.6em;
+    margin-top:10px;
+    margin-bottom: 0px;
+    border-bottom: 1px LightGrey solid;
+    line-height: 150%;
+    color: DarkRed;
+}
+H2 {
+    font-family: "Palatino Linotype", "Book Antiqua", Palatino, Helvetica, STKaiti, SimSun, serif;
+    font-size: 1.3em;
+    line-height: 150%;
+    color: black;
+    border:none;
+}
+H3 {
+    font-size: 1.2em;
+    margin:5px 0;
+    line-height: 150%;
+    color: DarkGreen;
+    border-bottom: 1px solid rgb(242, 239, 239);
+}
+H4 {
+    font-size: 1em;
+    margin:5px 0;
+    line-height: 150%;
+    color: DarkBlue;
+}
+p {
+    margin:3px 0 0 0;
+}
+span {
+    font-weight:bold;
+}
+.title {
+    float:left;
+}
+.pull-right {
+    float:right;
+    width:90%;
+}
+.detail {
+    font-size: 14px;
+    background:white;
+}
+ul {
+    list-style:none;
+    padding:10px;
+    margin-top:5px;
+}
+#blog_index li {
+    margin-bottom: 10px;
+    border-bottom: 1px solid rgb(244, 240, 240);
+    overflow:auto;
+    zoom:1;
+    background-color: rgba(253, 246, 237, 1);
+}
