@@ -1,5 +1,5 @@
 #blog_index {
-    font-family: SimSun, Heiti, sans-serif;
+    font-family:'Microsoft YaHei', 'SimHei', sans-serif;;
     font-size: 18px;
     width:610px;
     margin:auto;
@@ -68,8 +68,11 @@ li {
     margin-left: 5px;
 }
 #blog_index li {
-    margin-bottom: 10px;
+    margin-bottom: 20px;
     border-bottom: 1px solid rgb(244, 240, 240);
+}
+#blog_index li span {
+    color:rgb(54, 55, 56);
 }
 #blog_index li:hover {
     box-shadow: 1px 1px 4px 1px rgb(239, 238, 238);
@@ -83,7 +86,7 @@ blockquote {
 a {
     text-decoration: none;
     padding: 1px;
-    color: black;
+    color: rgb(16, 57, 103);
 }
 hr {
     color: LightGrey;
@@ -164,6 +167,10 @@ nav li:hover{
 }
 img {
     width:100%;
+}
+.photo {
+    width:280px;
+    box-shadow: 0px 2px 3px rgb(210, 204, 204);
 }
 footer img {
     width:20px;
