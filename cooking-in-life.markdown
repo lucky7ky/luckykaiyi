@@ -8,6 +8,12 @@ title: 大厨的日常
  <img src="http://7viirv.com1.z0.glb.clouddn.com/qrcode_for_gh_e85b7890672f_258.jpg" class="photo"/>
 </center>
  
+ &raquo; 2015-09-10 00:30
+
+> 上周末做的炒米粉。配炖汤刚刚好。 
+> <img src="http://7xloce.com1.z0.glb.clouddn.com/BA1CE4740144CB0CA27DAE5E141A355F.png" class="photo"/>
+> <img src="http://7xloce.com1.z0.glb.clouddn.com/7D7599E950C205B78C8F3B769751F54D.png" class="photo"/>
+
  &raquo; 2015-09-04 23:50
 
 > 今天做了咖喱鸡翅，出乎意料很成功，连之前对咖喱很嫌弃的WYY都说好吃。详细可戳这里 <a href="http://mp.weixin.qq.com/s?__biz=MzIxMTA1ODM5Mw==&mid=220836537&idx=1&sn=c9c48bbd29fe6a38bbcec14061386ec1&scene=1&srcid=0904QSR1i0EwjH3XOmzuKv4d&from=singlemessage&isappinstalled=0#rd" target="_blank">超好吃的咖喱鸡翅</a>
