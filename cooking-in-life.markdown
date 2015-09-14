@@ -8,6 +8,11 @@ title: 大厨的日常
  <img src="http://7viirv.com1.z0.glb.clouddn.com/qrcode_for_gh_e85b7890672f_258.jpg" class="photo"/>
 </center>
  
+ &raquo; 2015-09-12 12:30
+
+> 中午的清蒸鲈鱼。用微波炉蒸鱼真的很方便呐~ 
+> <img src="http://7xloce.com1.z0.glb.clouddn.com/A9ED7E88B9F843330185E440F62194A4.png" class="photo"/>
+
  &raquo; 2015-09-10 00:30
 
 > 上周末做的炒米粉。配炖汤刚刚好。 
