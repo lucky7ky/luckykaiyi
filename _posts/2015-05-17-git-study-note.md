@@ -74,6 +74,10 @@ date: 2015-05-17
 
 
 📒参考资料
-[git--简明指南]  
+[git--简明指南] 、[Git Tutorial]
+
   
+
+
 [git--简明指南]:http://rogerdudler.github.io/git-guide/index.zh.html
+[Git Tutorial]:https://blog.udemy.com/git-tutorial-a-comprehensive-guide
