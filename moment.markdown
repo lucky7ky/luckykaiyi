@@ -2,6 +2,12 @@
 layout: sharebutton
 title: TimeLine
 ---
+&raquo; 2015-09-22 20:50
+
+> <img src="http://7xloce.com1.z0.glb.clouddn.com/22c566613bfc2f6965fb760a758abbb8.jpeg" style="width:150px"></img>
+> 
+> 昨天晚上交了C++的第一次课下作业，今天惊喜地收到老师的回复邮件，被老师表扬啦。好开心好开心。想来，距离上次被老师表扬已经好多年。 
+
 &raquo; 2015-09-21 20:30
 
 > <img src="http://7xloce.com1.z0.glb.clouddn.com/IMG_3988.JPG" style="width:300px" class="photo"></img>

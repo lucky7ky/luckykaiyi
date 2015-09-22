@@ -5,6 +5,9 @@ title: "Git 常用命令手册"
 date: 2015-05-17
 ---
 
+<center>
+ <img src="http://7xloce.com1.z0.glb.clouddn.com/515b86be7dbb921080c193fa50c4065f.jpg" style="width:200px"/>
+</center>
 ### 🌀 克隆仓库  
 比如  
 `git clone git@github.com:lucky7ky/practice.git`  
