@@ -172,6 +172,9 @@ img {
     width:280px;
     box-shadow: 0px 2px 3px rgb(210, 204, 204);
 }
+.photo-small {
+    width:250px;
+}
 footer img {
     width:20px;
     height:20px;

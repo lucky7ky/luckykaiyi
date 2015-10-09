@@ -8,6 +8,18 @@ title: 大厨的日常
  <img src="http://7viirv.com1.z0.glb.clouddn.com/qrcode_for_gh_e85b7890672f_258.jpg" class="photo"/>
 </center>
  
+ &raquo; 2015-10-06 12:30
+
+> 国庆假期回家了，每顿饭都是满满的满足感，吃到了心心念念的蒜香小海蛎还有百吃不厌的肉圆等等..
+> 
+> 【最美的味道还是家里的饭菜香】
+> 
+> <span style="font-size:14px">（左图）加了肉圆的牛肉面（右图）面粉粿</span><br> 
+> <img src="http://7xloce.com1.z0.glb.clouddn.com/IMG_4082.JPG" class="photo photo-small"/>
+<img src="http://7xloce.com1.z0.glb.clouddn.com/IMG_4135.JPG" class="photo photo-small"/><br/>
+<img src="http://7xloce.com1.z0.glb.clouddn.com/IMG_4086.JPG" class="photo photo-small"/>
+<img src="http://7xloce.com1.z0.glb.clouddn.com/IMG_4164.JPG" class="photo photo-small"/>
+
  &raquo; 2015-09-20 17:50
 
 > 配料很多的包菜咸饭~ <br/> 

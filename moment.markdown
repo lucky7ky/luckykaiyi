@@ -2,6 +2,9 @@
 layout: sharebutton
 title: TimeLine
 ---
+&raquo; 2015-10-01 23:00
+> need to be stronger..
+
 &raquo; 2015-09-22 20:50
 
 > <img src="http://7xloce.com1.z0.glb.clouddn.com/22c566613bfc2f6965fb760a758abbb8.jpeg" style="width:150px"></img>
