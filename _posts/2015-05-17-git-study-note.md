@@ -10,7 +10,7 @@ date: 2015-05-17
 </center>
 ### 🌀 克隆仓库  
 比如  
-`git clone git@github.com:lucky7ky/practice.git`  
+`git clone git@github.com:luckykaiyi/practice.git`  
 ### 🌀【添加、提交、推送】三步曲  
 🌺 首先，了解**工作流**    
 本地仓库由 git 维护的三棵“树”组成。第一个是工作目录，它持有实际文件；第二个是暂存区（Index），它像个缓存区域，临时保存改动；最后是 HEAD，它指向最后一次提交的结果。    

@@ -3,13 +3,30 @@ body {
 }
 #blog_index {
     width:auto;
-    font-size:26px;
     margin:0px;
+    font-size:40px;
+}
+H1 {
+    font-size:1.4em;
+}
+H2 {
+    font-size:1.2em;
+}
+H3 {
+    font-size:1.1em;
 }
 nav {
     width:auto;
     margin:0px;
 }
 nav li {
-    font-size:24px;
+    font-size:2em;
 }
+.photo {
+    width:100%;
+}
+.photo-small {
+    width:100%;
+}
+
+

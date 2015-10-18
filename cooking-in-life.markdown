@@ -5,16 +5,38 @@ title: 大厨的日常
 <center>
  hi,欢迎关注【多米厨房】公众号~
 
- <img src="http://7viirv.com1.z0.glb.clouddn.com/qrcode_for_gh_e85b7890672f_258.jpg" class="photo"/>
+ <img src="http://7xloce.com1.z0.glb.clouddn.com/qrcode_for_gh_e85b7890672f_430.jpg" class="photo photo-small"/>
 </center>
  
+&raquo; 2015-10-17 20:30
+> 今天中午去刘艳艳家里吃饭。刘氏姐妹的厨艺赞爆！！！<br>
+>  刘艳艳牌麻辣香锅色香味俱全，做法看着也不难，新技能get 😄 , 下次我也要试试看。
+> 
+> <img src="http://7xloce.com1.z0.glb.clouddn.com/867616FCDBF969D538E9D27AD04127D1.png" class="photo photo-small"/>
+> <img src="http://7xloce.com1.z0.glb.clouddn.com/7B4CFDD75B52485506A140FD4F06C1F0.png" class="photo photo-small"/>
+> 
+> 刘丽做的红烧肉肥而不腻（红烧肉是我厨艺道路的一道坎。至今做不好的一道菜，别人做的怎么都那么软糯可口呢。。╮(╯▽╰)╭ ）
+> 
+> <img src="http://7xloce.com1.z0.glb.clouddn.com/A59BC052DC6D97E7F6EC117F3FFBE40C.png" class="photo"/>
+> 
+> 刘艳艳自创海鲜汤，放了干贝类，味道特别鲜美。摆盘加桌布映衬，瞬间文艺范 ~ ~
+> 
+> <img src="http://7xloce.com1.z0.glb.clouddn.com/A937CDDCBDF1953670076E525F0EB35E.png" class="photo"/>
+>  
+> 午餐 👈  完美 👉    开心の周末小聚  干杯~
+> 
+> <img src="http://7xloce.com1.z0.glb.clouddn.com/597CCBD3-4433-431B-80DA-E20313FEF817.png" class="photo-small"/>
+
+
+
+
  &raquo; 2015-10-06 12:30
 
 > 国庆假期回家了，每顿饭都是满满的满足感，吃到了心心念念的蒜香小海蛎还有百吃不厌的肉圆等等..
 > 
 > 【最美的味道还是家里的饭菜香】
 > 
-> <span style="font-size:14px">（左图）加了肉圆的牛肉面（右图）面粉粿</span><br> 
+> <span style="font-size:0.8em">（左图）加了肉圆的牛肉面（右图）面粉粿</span><br> 
 > <img src="http://7xloce.com1.z0.glb.clouddn.com/IMG_4082.JPG" class="photo photo-small"/>
 <img src="http://7xloce.com1.z0.glb.clouddn.com/IMG_4135.JPG" class="photo photo-small"/><br/>
 <img src="http://7xloce.com1.z0.glb.clouddn.com/IMG_4086.JPG" class="photo photo-small"/>
