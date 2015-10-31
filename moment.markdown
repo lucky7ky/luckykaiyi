@@ -54,7 +54,7 @@ title: TimeLine
 
 > <img src="http://7xloce.com1.z0.glb.clouddn.com/IMG_3988.JPG"  class="photo"></img>
 > 
-> 研究僧的第一堂课 C++ 又回到校园坐在教室听歌的感觉有点熟悉有点新鲜~ 
+> 研究僧的第一堂课 C++ 又回到校园坐在教室听课的感觉有点熟悉有点新鲜~ 
 > 
 > <img src="http://7xloce.com1.z0.glb.clouddn.com/IMG_3996.JPG" class="photo"></img>
 > 
