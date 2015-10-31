@@ -8,6 +8,16 @@ title: 大厨的日常
  <img src="http://7xloce.com1.z0.glb.clouddn.com/qrcode_for_gh_e85b7890672f_430.jpg" class="photo photo-small"/>
 </center>
  
+&raquo; 2015-10-31 13:20
+> 卤了一锅猪蹄和鸡蛋..然，并没有想象的那么好吃。有待改进 ~ 
+
+> <img src="http://7xloce.com1.z0.glb.clouddn.com/39780079-83FA-449A-AA2A-CAB52CF631B8.jpg" class="photo"/>
+
+&raquo; 2015-10-24 15:08
+> 最近很喜欢这三种蔬菜的搭配~ 清清爽爽~ 如果有荷兰豆会更好~ 
+
+> <img src="http://7xloce.com1.z0.glb.clouddn.com/13BD7486-8673-4EEE-BFFE-3BBFCB6127D6.jpg" class="photo"/>
+
 &raquo; 2015-10-17 20:30
 > 今天中午去刘艳艳家里吃饭。刘氏姐妹的厨艺赞爆！！！<br>
 >  刘艳艳牌麻辣香锅色香味俱全，做法看着也不难，新技能get 😄 , 下次我也要试试看。
@@ -15,7 +25,7 @@ title: 大厨的日常
 > <img src="http://7xloce.com1.z0.glb.clouddn.com/867616FCDBF969D538E9D27AD04127D1.png" class="photo photo-small"/>
 > <img src="http://7xloce.com1.z0.glb.clouddn.com/7B4CFDD75B52485506A140FD4F06C1F0.png" class="photo photo-small"/>
 > 
-> 刘丽做的红烧肉肥而不腻（红烧肉是我厨艺道路的一道坎。至今做不好的一道菜，别人做的怎么都那么软糯可口呢。。╮(╯▽╰)╭ ）
+> 刘丽做的红烧肉肥而不腻（红烧肉始终是我厨艺道路的一道坎。至今做不好的一道菜，别人做的怎么都那么软糯可口呢。。╮(╯▽╰)╭ ）
 > 
 > <img src="http://7xloce.com1.z0.glb.clouddn.com/A59BC052DC6D97E7F6EC117F3FFBE40C.png" class="photo"/>
 > 
@@ -36,7 +46,7 @@ title: 大厨的日常
 > 
 > 【最美的味道还是家里的饭菜香】
 > 
-> <span style="font-size:0.8em">（左图）加了肉圆的牛肉面（右图）面粉粿</span><br> 
+> <span style="font-size:0.8em">（图1）加了肉圆的牛肉面（图2）面粉粿</span><br> 
 > <img src="http://7xloce.com1.z0.glb.clouddn.com/IMG_4082.JPG" class="photo photo-small"/>
 <img src="http://7xloce.com1.z0.glb.clouddn.com/IMG_4135.JPG" class="photo photo-small"/><br/>
 <img src="http://7xloce.com1.z0.glb.clouddn.com/IMG_4086.JPG" class="photo photo-small"/>
