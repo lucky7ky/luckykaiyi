@@ -3,6 +3,19 @@ layout: sharebutton
 title: TimeLine
 ---
 
+&raquo; 2016-03-09 21:30
+> 『你明明是果冻，为什么要伪装成糖』
+>
+> 晚上去超市，被一包水果糖给吸引了，弹力无比，晶莹剔透...<br/>
+> <img src="http://7xloce.com1.z0.glb.clouddn.com/moment0012.jpg" class="photo photo-small"> 
+> <img src="http://7xloce.com1.z0.glb.clouddn.com/moment0013.jpg" class="photo photo-small"> 
+>
+> 我以为是包装上面的样子，看起来好好次的样子，脑补了一下Q 弹的口感..这不就是我想象中的滑板糖...<br/>
+> 巴特..倒出来发现全是紫色的小果冻.. 其实蛮好吃..一边想吐槽一边已经被我吃掉好多个..<br/>
+> <img src="http://7xloce.com1.z0.glb.clouddn.com/moment0014.jpg" class="photo photo-small"> 
+> 
+> 但还是觉得你们比较适合叫水晶果冻呀..不然我会觉得受到了欺骗..
+
 &raquo; 2015-10-27 20:10
 > 学校东门的麻辣烫。在寒风瑟瑟的时候，一群人围坐在路边摊吃麻辣烫~ 热腾腾的雾气~ 
 > 总觉得这样的画面很有生活气息。 
