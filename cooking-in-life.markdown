@@ -8,6 +8,17 @@ title: 大厨的日常
  <img src="http://7xloce.com1.z0.glb.clouddn.com/qrcode_for_gh_e85b7890672f_430.jpg" class="photo photo-small"/>
 </center>
  
+&raquo; 2016-03-13 13:20
+> 两道菜的共同点，就是都放了香甜玉米肠，发现调味效果不错，尤其是汤的味道会更香甜。
+> 
+> <img src="http://7xloce.com1.z0.glb.clouddn.com/cooking0020.jpg" class="photo photo-small"/>
+> <img src="http://7xloce.com1.z0.glb.clouddn.com/cooking0021.jpg" class="photo photo-small"/>
+
+&raquo; 2016-02-22 14:08
+> 包春卷，麻麻说还不错😄  
+> 
+> <img src="http://7xloce.com1.z0.glb.clouddn.com/cooking0019.jpg" class="photo"/>
+
 &raquo; 2015-10-31 13:20
 > 卤了一锅猪蹄和鸡蛋..然，并没有想象的那么好吃。有待改进 ~ 
 
