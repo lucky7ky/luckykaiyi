@@ -28,5 +28,8 @@ nav li {
 .photo-small {
     width:100%;
 }
+.img-wrapper img {
+    width:100%;
+}
 
 

@@ -172,4 +172,10 @@ footer img {
 .cartoon {
     width:30%;
 }
+.img-wrapper {
+    text-align:center;
+}
+.img-wrapper img {
+    width:60%;
+}
 
