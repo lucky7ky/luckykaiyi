@@ -37,7 +37,7 @@ pre {
 }
 H1 {
     font-family: "Palatino Linotype", "Book Antiqua", Palatino, Helvetica, STKaiti, SimSun, serif;
-    font-size: 1.7em;
+    font-size: 1.5em;
     margin:0;
     border-bottom: 2px #F3F3F3 solid;
     padding:10px 0;
@@ -82,9 +82,11 @@ blockquote {
     margin-left: 20px;
 }
 a {
-    text-decoration: none;
     padding: 1px;
     color: rgb(16, 57, 103);
+}
+#home a {
+    text-decoration: none;
 }
 hr {
     color: LightGrey;
