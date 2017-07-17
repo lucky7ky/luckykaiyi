@@ -15,7 +15,7 @@
 code {
     /*margin: 0 2px;*/
     /*padding: 0 5px;*/
-    border: 1px solid #eaeaea;
+    /*border: 1px solid #eaeaea;*/
     background-color: #f8f8f8;
     border-radius: 3px;
 }
@@ -67,15 +67,15 @@ li {
 }
 #blog_index li {
     margin-bottom: 20px;
-    border-bottom: 1px solid rgb(244, 240, 240);
+    /*border-bottom: 1px solid rgb(244, 240, 240);*/
 }
 #blog_index li span {
     color:rgb(54, 55, 56);
 }
-#blog_index li:hover {
-    box-shadow: 1px 1px 4px 1px rgb(239, 238, 238);
-    border-radius: 5px;
-}
+/*#blog_index li:hover {*/
+    /*box-shadow: 1px 1px 4px 1px rgb(239, 238, 238);*/
+    /*border-radius: 5px;*/
+/*}*/
 blockquote {
     border-left: 4px lightgrey solid;
     padding-left: 5px;
