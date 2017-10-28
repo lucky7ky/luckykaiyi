@@ -5,7 +5,7 @@ title: 多米之家
 
 <div id="home">
 	<h1>多米之家</h1>
-    <ul>
+    <ul class="posts">
         {% for post in site.posts %}
             {% if post.hot == "yes" %}
                 <li><span>{{ post.date | date_to_string }}</span> &raquo; <a style="color:#900; border-bottom-color:#900" href="{{ post.url }}">{{ post.title }}</a></li>
