@@ -5,7 +5,7 @@ title: "基于 Node.js 构建简单的 Web 开发框架 —— Libird"
 date: 2017-02-21
 ---
 <center>
-<img src = 'http://7xloce.com1.z0.glb.clouddn.com/libird_logo_v1.0.png' style="width:300px">
+<img src = 'http://images.luckykaiyi.com/libird_logo_v1.0.png' style="width:300px">
 </center>
 
 **Libird** ? 这是什么鬼 ~ 
@@ -63,7 +63,7 @@ Socket 可以理解成通信管道，代表的是客户端和服务器端的一�
 
 
 <center>
-<img src="http://7xloce.com1.z0.glb.clouddn.com/libird_icon_v1.0.png" style="width: 100px">
+<img src="http://images.luckykaiyi.com/libird_icon_v1.0.png" style="width: 100px">
 </center>
 
 

@@ -6,7 +6,7 @@ date: 2016-04-04
 ---
 
 <div class="img-wrapper">
-<img src = "http://7xloce.com1.z0.glb.clouddn.com/orange.jpg">
+<img src = "http://images.luckykaiyi.com/orange.jpg">
 </div>
 
 这个三月很忙，但是有些事值得记录一下。

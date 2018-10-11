@@ -19,7 +19,7 @@ date: 2015-08-25
 在wyy的带领下，开启了LeetCode的第一题，其实一开始想选最最Easy的，眼花选了个Medium的,可能因为序号排第一。  
 是它 是它 就是它 👉 [Two Sum]  
 
-<img src="http://7viirv.com1.z0.glb.clouddn.com/TwoSum.png">
+<img src="http://images.yanyiwu.com/TwoSum.png">
 
 看完题目，心里好像放松了一些，之前完全不知道做这种题目是什么概念，能看懂题目意思，至少一下子亲切了许多。  
 好吧，接来下let me try , 打开小黑屏幕，思考和尝试中敲定如下代码：
@@ -38,7 +38,7 @@ var twoSum = function (nums,target) {
 ```
 自己随便弄了个例子测试下，console出来的结果完全符合预期呀！！   
 心里一顿窃喜。( ⊙o⊙ ) 第一道题就这么解出来了？！跟WYY炫耀我已经成功解出来了，他瞄了一眼代码，笑了🐸，让我提交试试看，我迫不及待地Submit Solution, 然后... 😱
-<img src = "http://7viirv.com1.z0.glb.clouddn.com/74905FF0-A77F-41F2-A820-6C42F158420B.png">
+<img src = "http://images.yanyiwu.com/74905FF0-A77F-41F2-A820-6C42F158420B.png">
 这是什么鬼。WYY又笑了🐸，那个笑容和之前他看到我写的代码一样，好吧，一切在他预料之中👌。
 
 之后，WYY开启教学模式。开始讲时间复杂度O(1) 和O(N)，我原来的写法是O(N^2) ，如果数组很长的话，将会非常耗时，从性能来讲的话不是好的实现方式，所以需要再改改。
@@ -76,9 +76,9 @@ var twoSum = function (nums,target) {
 }
 ```
 哈 ^_^ 终于pass了。必须截图纪念一下。
-<img src = "http://7viirv.com1.z0.glb.clouddn.com/2D`[[~7CV60U9SD35LNK365.jpg">
+<img src = "http://images.yanyiwu.com/2D`[[~7CV60U9SD35LNK365.jpg">
 
-<img src = "http://7viirv.com1.z0.glb.clouddn.com/9~XE%258~@8XQ%253%25N`YF$M~NN.jpg">
+<img src = "http://images.yanyiwu.com/9~XE%258~@8XQ%253%25N`YF$M~NN.jpg">
 耗时在分布图里面排在中等吧。本来这个截完图后除了心情依然兴奋也就没啥事了。看了下最新的写法，发现代码里面有个细节，有一些重复的地方可以优化一下，说不定还能把时间再缩短一点。
 
 ```
@@ -98,7 +98,7 @@ var twoSum = function(nums, target) {
 ```
 好奇地提交看结果，惊喜地发现这样稍微一改，分布图排名提高了不少。
 
-<img src = "http://7viirv.com1.z0.glb.clouddn.com/S5%25ZJH)WCWWT(MW~$L3%25IYV.jpg">
+<img src = "http://images.yanyiwu.com/S5%25ZJH)WCWWT(MW~$L3%25IYV.jpg">
 
 不过最关键的还是由O(N^2)到O(N)的那次改进。那也是做这道题过程中思考最久的部分，也多亏了WYY的启发。 
 
